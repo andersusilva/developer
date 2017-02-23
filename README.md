@@ -71,7 +71,7 @@ The `selectnav` function takes as the second argument a key-value list of the fo
 
 # Demos
 
-See http://github.com/andersusilva/developer/selectnav.js/ for live demo and examples
+See https://github.com/andersusilva/developer/blob/master/selectnav.js for live demo and examples
 
 # Ender
 
